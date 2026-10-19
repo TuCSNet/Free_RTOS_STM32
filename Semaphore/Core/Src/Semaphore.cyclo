@@ -1,0 +1,8 @@
+../Core/Src/Semaphore.c:87:5:main	1
+../Core/Src/Semaphore.c:173:6:SystemClock_Config	3
+../Core/Src/Semaphore.c:221:13:MX_USART2_UART_Init	2
+../Core/Src/Semaphore.c:254:13:MX_GPIO_Init	1
+../Core/Src/Semaphore.c:299:6:Task1	2
+../Core/Src/Semaphore.c:322:6:Task2	2
+../Core/Src/Semaphore.c:349:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/Semaphore.c:367:6:Error_Handler	1

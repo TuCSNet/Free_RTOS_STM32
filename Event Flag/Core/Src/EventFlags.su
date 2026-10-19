@@ -1,0 +1,9 @@
+../Core/Src/EventFlags.c:97:5:main	8	static
+../Core/Src/EventFlags.c:182:6:SystemClock_Config	88	static
+../Core/Src/EventFlags.c:230:13:MX_USART2_UART_Init	8	static
+../Core/Src/EventFlags.c:263:13:MX_GPIO_Init	48	static
+../Core/Src/EventFlags.c:309:6:blinkLED	16	static
+../Core/Src/EventFlags.c:323:6:task1	16	static
+../Core/Src/EventFlags.c:334:6:task2	24	static
+../Core/Src/EventFlags.c:357:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/EventFlags.c:375:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,2 @@
+../Core/Src/freertos.c:35:5:_write	4
+../Core/Src/freertos.c:50:5:_read	3

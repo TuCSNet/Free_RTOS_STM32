@@ -1,0 +1,9 @@
+../Core/Src/EventFlags.c:97:5:main	1
+../Core/Src/EventFlags.c:182:6:SystemClock_Config	3
+../Core/Src/EventFlags.c:230:13:MX_USART2_UART_Init	2
+../Core/Src/EventFlags.c:263:13:MX_GPIO_Init	1
+../Core/Src/EventFlags.c:309:6:blinkLED	1
+../Core/Src/EventFlags.c:323:6:task1	1
+../Core/Src/EventFlags.c:334:6:task2	2
+../Core/Src/EventFlags.c:357:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/EventFlags.c:375:6:Error_Handler	1
